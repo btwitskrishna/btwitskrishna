@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btwitskrishna (Suman Krishna)
-- 👀 I’m interested in building softwares.
+- 👋 Hi, I’m Suman Krishna and I'm Frontend developer.
+- 👀 I’m interested in building website designs.
 - 🌱 I’m currently learning Bachelor's of Technology in Computer Science Engineering.
 - 📫 You can reach me on my instagram or linkdiln profile link in bio.
